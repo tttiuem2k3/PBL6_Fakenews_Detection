@@ -4,7 +4,10 @@
 Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thời đại số, đặc biệt trên các nền tảng mạng xã hội. Dự án này tập trung xây dựng hệ thống tự động phân loại tin giả tiếng Việt bằng mô hình **ELECTRA-Base**, kết hợp công nghệ NLP tiên tiến và cơ sở dữ liệu tin tức đa dạng.
 
 ---
-
+## :tv: Demo
+![Demo](./Demo/demo_gif.gif)
+- Watch the full demo video here: https://youtu.be/xFiZ1M9Q2JM
+---
 ## 📂 Nguồn dữ liệu
 - **📰 Tin thật**: Thu thập từ các báo chính thống như VnExpress, Dân Trí, Thanh Niên (16,258 bài báo).
 - **📛 Tin giả**: Lấy từ các trang không chính thống như Viettan, Danlambao (16,086 bài báo).
