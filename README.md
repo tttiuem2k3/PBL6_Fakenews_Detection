@@ -131,7 +131,7 @@ pip install -r requirements.txt
 - Huấn luyện mô hình dựa trên bộ data: [`DATA.rar`](./DATA/DATA.rar)
 - Tham khoản code huấn luyện mô hình: [`CODE`](./CODE)
 ### Chạy ứng dụng:
-Run python [`App.py`](./APP/App.)
+Run python [`App.py`](./APP/App.py)
 
 ---
 
