@@ -79,19 +79,20 @@ Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thờ
 ---
 
 ## 🛠️ Cài đặt
+### Tải code:
 ```bash
 git clone https://github.com/your-repo/fake-news-detection
 cd fake-news-detection
 pip install -r requirements.txt
 ```
 ### Huấn luyện mô hình:
-- Huấn luyện mô hình dựa trên bộ data: [./DATA/DATA.rar]
+- Huấn luyện mô hình dựa trên bộ data: [`DATA.rar`](./DATA/DATA.rar)
+- Tham khoản code huấn luyện mô hình: [`CODE`](./CODE)
 ### Chạy ứng dụng:
 python app.py
 
 ---
 
 ##  📞 Liên hệ
-👥 
-
+👥 Linkedin: https://www.linkedin.com/in/thinh-tran-04122k3/
 📧 Email: tttiuem2k3@gmail.com
