@@ -5,7 +5,7 @@ Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thờ
 
 ---
 ## :tv: Demo
-![Demo](./demo1.gif)
+![Demo](demo1.gif)
 - Xem đầy đủ DEMO tại đây: [https://youtu.be/xFiZ1M9Q2JM](https://www.youtube.com/watch?v=HQ2c8JY_TXI&t=25s)
 ---
 ## 📂 Nguồn dữ liệu
