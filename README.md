@@ -5,8 +5,8 @@ Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thờ
 
 ---
 ## :tv: Demo
-![Demo](./Demo/demo_gif.gif)
-- Watch the full demo video here: https://youtu.be/xFiZ1M9Q2JM
+![Demo](./demo1.gif)
+- Xem đầy đủ DEMO tại đây: [https://youtu.be/xFiZ1M9Q2JM](https://www.youtube.com/watch?v=HQ2c8JY_TXI&t=25s)
 ---
 ## 📂 Nguồn dữ liệu
 - **📰 Tin thật**: Thu thập từ các báo chính thống như VnExpress, Dân Trí, Thanh Niên (16,258 bài báo).
