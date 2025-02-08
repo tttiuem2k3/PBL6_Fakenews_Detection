@@ -72,7 +72,7 @@ Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thờ
      
 ![cải tiến mô hình electra](./Images/img5.jpg)
 
-### Qui trình huấn luyện
+### 🚀 Qui trình huấn luyện
 1. **🛠️ Cấu hình huấn luyện:**
 
 | Epochs      | BATH_SIZE | OPTIMIZER | DROPOUT |LEARNING_RATE|NUM_CLASSES| 
