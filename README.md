@@ -35,7 +35,7 @@ Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thờ
    ![Phân bố từ sau tiền xử lý](./Images/anh2.jpg)
 
    ![Phân bố từ sau tiền xử lý](./Images/img3.jpg)   
-4. **📂 Phân chia tập dữ liệu**:
+4. **📂 Phân chia tập dữ liệu huấn luyện**:
    - **Train**: 60% (19,394 mẫu)
    - **Validation**: 20% (6,464 mẫu)
    - **Test**: 20% (6,468 mẫu)
