@@ -25,22 +25,20 @@ Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thờ
    - Loại bỏ stopwords và cân bằng dữ liệu.
      
    ![Qui trình tiền xử lý dữ liệu](./Images/anh1.jpg)
-3. **📂 Phân chia tập dữ liệu**:
+
+3. **📊 Thống kê dữ liệu**
+   | Loại tin | Số lượng | Tỷ lệ |
+   |----------|----------|-------|
+   | 📰 Tin thật | 16,258   | 50.3% |
+   | 📛 Tin giả  | 16,086   | 49.7% |
+
+   ![Phân bố từ sau tiền xử lý](./Images/anh2.jpg)
+
+   ![Phân bố từ sau tiền xử lý](./Images/img3.jpg)   
+4. **📂 Phân chia tập dữ liệu**:
    - **Train**: 60% (19,394 mẫu)
    - **Validation**: 20% (6,464 mẫu)
    - **Test**: 20% (6,468 mẫu)
-
----
-
-## 📊 Thống kê dữ liệu
-| Loại tin | Số lượng | Tỷ lệ |
-|----------|----------|-------|
-| 📰 Tin thật | 16,258   | 50.3% |
-| 📛 Tin giả  | 16,086   | 49.7% |
-
-![Phân bố từ sau tiền xử lý](./Images/anh2.jpg)
-
-![Phân bố từ sau tiền xử lý](./Images/img3.jpg)
 
 ---
 
