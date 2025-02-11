@@ -125,7 +125,7 @@ Dưới đây là bảng so sánh kết quả giữa **ELECTRA-Base**, **Transfo
 ### Tải code:
 ```bash
 cd fake-news-detection
-git clone https://github.com/tttiuem2k3/PBL6_Fakenews_Detection
+git clone https://github.com/tttiuem2k3/PBL6_Fakenews_Detection.git
 pip install -r requirements.txt
 ```
 ### Huấn luyện mô hình:
