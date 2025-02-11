@@ -137,6 +137,6 @@ Run python [`App.py`](./APP/App.py)
 ---
 
 ##  📞 Liên hệ
-- 👥 Linkedin: https://www.linkedin.com/in/thinh-tran-04122k3/
+- 👥 Linkedin: [Thịnh Trần](https://www.linkedin.com/in/thinh-tran-04122k3/)
 
 - 📧 Email: tttiuem2k3@gmail.com
