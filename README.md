@@ -1,7 +1,7 @@
 # 🚨 HỆ THỐNG NHẬN DẠNG TIN GIẢ | ELECTRA-Base 🚨
 
 ## 📌 Giới thiệu đề tài
-Tin giả (Fake News) đang trở thành vấn nạn nghiêm trọng trong thời đại số, đặc biệt trên các nền tảng mạng xã hội. Dự án này tập trung xây dựng hệ thống tự động phân loại tin giả tiếng Việt bằng mô hình **ELECTRA-Base**, kết hợp công nghệ NLP tiên tiến và bộ dữ liệu tin tức về chủ đề chính trị đa dạng.
+Tin giả (**Fake News**) đang trở thành vấn nạn nghiêm trọng trong thời đại số, đặc biệt trên các nền tảng mạng xã hội. Dự án này tập trung xây dựng hệ thống tự động phân loại tin giả tiếng Việt bằng mô hình **ELECTRA-Base**, kết hợp công nghệ NLP tiên tiến và bộ dữ liệu tin tức về chủ đề chính trị đa dạng.
 
 ---
 ## :tv: Demo
