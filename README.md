@@ -115,7 +115,7 @@ Dưới đây là bảng so sánh kết quả giữa **ELECTRA-Base**, **Transfo
 
 ---
 ## 🔮 Hướng phát triển
-- **🌍 Mở rộng sang đa ngôn ngữ** (tiếng Anh, Trung).
+- **🌍 Mở rộng sang đa ngôn ngữ** (tiếng Anh, Trung). 
 - **🖼️ Tích hợp phân tích hình ảnh/video** bằng CNN.
 - **🌐 Xây dựng extension trình duyệt** để quét tin giả real-time.
 
